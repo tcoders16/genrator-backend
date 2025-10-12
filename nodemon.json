@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "ignore": ["out"],
+  "exec": "tsc && node out/api/server.js"
+}
